@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MOS_Lab3</string>
+    <string name="count_of_clicks">Count of clicks: %1$d</string>
+    <string name="click_me">Click me!</string>
+    <string name="default_message">Default message</string>
+    <string name="input_new_message">Input new message...</string>
+    <string name="set_message">Set message</string>
+    <string name="show_toast">Show Toast</string>
+    <string name="close_app">Close app</string>
+</resources>

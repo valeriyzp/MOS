@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MOS_Lab4</string>
+    <string name="game_results">Game over\nYour score: %1$d</string>
+    <string name="restart_button">Restart button</string>
+    <string name="start_button">Start button</string>
+    <string name="close_button">Close button</string>
+</resources>
